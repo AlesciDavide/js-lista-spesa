@@ -3,3 +3,24 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(101, 101, 216);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.my_title{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+#lista_dom{
+    margin-left: 5rem;
+}
+
+
+.My_li{
+    color: rgb(255, 255, 255);
+    padding-bottom: .5rem;
+    font-size: 1.2rem;
+}
